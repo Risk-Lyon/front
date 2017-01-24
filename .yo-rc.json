@@ -1,0 +1,21 @@
+{
+  "generator-fountain-angular2": {
+    "version": "1.0.0-rc2",
+    "props": {
+      "css": "scss",
+      "framework": "angular2",
+      "ci": [],
+      "js": "typescript",
+      "modules": "webpack",
+      "argv": {
+        "remain": [],
+        "cooked": [],
+        "original": []
+      },
+      "namespace": "fountain-angular2",
+      "resolved": "/Users/yannlombard/.nvm/versions/node/v5.7.0/lib/node_modules/generator-fountain-webapp/node_modules/generator-fountain-angular2/generators/app/index.js",
+      "sample": "techs",
+      "router": "uirouter"
+    }
+  }
+}
